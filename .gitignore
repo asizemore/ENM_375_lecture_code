@@ -1,6 +1,7 @@
 # Files and such
 data/*
 lecture_4_01_30_2020/data/*
+!lecture_4_01_30_2020/data/.gitkeep
 
 
 # <<< Python >>>
