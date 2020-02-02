@@ -2,6 +2,8 @@
 data/*
 lecture_4_01_30_2020/data/*
 !lecture_4_01_30_2020/data/.gitkeep
+lecture_5_02_04_2020/data/*
+!lecture_5_02_04_2020/data/.gitkeep
 
 
 # <<< Python >>>
