@@ -6,6 +6,10 @@ lecture_5_02_04_2020/data/*
 !lecture_5_02_04_2020/data/.gitkeep
 
 
+.config/
+.cufflinks/
+.local
+
 # <<< Python >>>
 
 # Byte-compiled / optimized / DLL files
