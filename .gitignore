@@ -9,6 +9,7 @@ lecture_5_02_04_2020/data/*
 .config/
 .cufflinks/
 .local
+.jupyter/
 
 # <<< Python >>>
 
