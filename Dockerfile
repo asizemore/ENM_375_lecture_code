@@ -6,6 +6,8 @@ RUN pip install sklearn
 RUN pip install plotly
 RUN pip install cufflinks
 RUN pip install networkx
+RUN pip install jupyterthemes
+RUN jt -t chesterish
 
 
 
