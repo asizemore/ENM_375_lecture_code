@@ -8,6 +8,7 @@ RUN pip install cufflinks
 RUN pip install networkx
 RUN pip install jupyterthemes
 RUN jt -t chesterish
+RUN pip install matplotlib-venn
 
 
 
