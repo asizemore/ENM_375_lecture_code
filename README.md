@@ -27,3 +27,8 @@ Please download the `CCLE_expression.csv` and `sample_info.csv` files from the D
 **Lecture 5, February 4th**
 
 This lecture involves an in-class code demonstration, so I will provide the data through Canvas. The data we will use comes from [this paper](https://arxiv.org/abs/1608.03520).
+
+
+** Lecture 6, February 6th**
+
+The data for all figures in this lecture is included within the notebook. Catan dice rolls from 2016-2019 collected by [Taylor Patch](https://github.com/tcpatch). 
