@@ -9,6 +9,7 @@ RUN pip install networkx
 RUN pip install jupyterthemes
 RUN jt -t chesterish
 RUN pip install matplotlib-venn
+RUN pip install bctpy
 
 
 
@@ -20,6 +21,9 @@ RUN apt-get update && apt-get install -y \
 USER jovyan
 
 
+COPY lecture_4_01_30_2020 .
 COPY lecture_5_02_04_2020 .
+COPY lecture_6_02_06_2020 .
+COPY lecture_7_02_11_2020 .
 
 EXPOSE 8888
