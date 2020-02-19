@@ -37,3 +37,8 @@ The data for all figures in this lecture is included within the notebook. Catan 
 **Lecture 7, February 11th**
 
 For this lecture, we use data from [NASA's data portal](https://nasa.github.io/data-nasa-gov-frontpage/) about [bolide reports](https://data.nasa.gov/Space-Science/Fireball-And-Bolide-Reports/mc52-syum), as well as the data from the 2018 [Central Park squirrel census](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw). The in-class exercise will only use the squirrel data.
+
+
+**Lecture 10, February 20th**
+
+The in-class exercise uses data found at [this site](https://elifesciences.org/articles/49555/figures) which was used in the paper: Protsiv, Myroslava, et al. "Decreasing human body temperature in the United States since the Industrial Revolution." eLife 9 (2020): e49555.

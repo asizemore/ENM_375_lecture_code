@@ -14,6 +14,11 @@ lecture_7_02_11_2020/data/*
 lecture_7_02_11_2020/*.pdf
 lecture_7_02_11_2020/Lecture7_02_11_2020_code_and_data.zip
 
+lecture_10_02_20_2020/data/*
+!lecture_10_02_20_2020/data/.gitkeep
+lecture_10_02_20_2020/*.pdf
+lecture_10_02_20_2020/Lecture10_02_20_2020_code_and_data.zip
+
 
 .config/
 .cufflinks/
