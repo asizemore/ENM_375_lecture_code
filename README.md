@@ -42,3 +42,7 @@ For this lecture, we use data from [NASA's data portal](https://nasa.github.io/d
 **Lecture 10, February 20th**
 
 The in-class exercise uses data found at [this site](https://elifesciences.org/articles/49555/figures) which was used in the paper: Protsiv, Myroslava, et al. "Decreasing human body temperature in the United States since the Industrial Revolution." eLife 9 (2020): e49555.
+
+**Lecture 11, February 25th**
+
+This lecture focuses on the t-distribution. The main notebook for the class is the Lecture11_t_statistic.ipynb notebook which practices sampling and highlights the difference between the t and Z distributions. We will revisit the [temperature data](https://elifesciences.org/articles/49555/figures) from last time, and then practice these concepts with the data from [this 2015](https://www.nature.com/articles/nn.3993) Nature Neuroscience article. Data will be distributed during class.
