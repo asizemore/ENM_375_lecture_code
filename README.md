@@ -46,3 +46,8 @@ The in-class exercise uses data found at [this site](https://elifesciences.org/a
 **Lecture 11, February 25th**
 
 This lecture focuses on the t-distribution. The main notebook for the class is the Lecture11_t_statistic.ipynb notebook which practices sampling and highlights the difference between the t and Z distributions. We will revisit the [temperature data](https://elifesciences.org/articles/49555/figures) from last time, and then practice these concepts with the data from [this 2015](https://www.nature.com/articles/nn.3993) Nature Neuroscience article. Data will be distributed during class.
+
+
+**Lecture 15, March 24th**
+
+The first two-sample t-test used in the slides of the lecture is inspired from [this paper](https://europepmc.org/article/PMC/3335970) that reports the pleasurability of scratching an itch. The second comes from the Broad Achilles [CRISPR data](https://depmap.org/portal/download/), specifically using the `sample_info.csv` and the `Achilles_gene_effect.csv` files. The notebook labeled `...group_coding_exercise` exemplifies how to choose and run t-tests with two samples. The analysis was inspired from [this review on hydrogels](https://www.nature.com/articles/s41578-019-0148-6), and the recordings presented in the notebook represent toy data only. Finally, the in-class exercise uses data generated from Bassett lab members and friends while performing an experiment to test the results of [this paper](https://www.sciencedirect.com/science/article/pii/S2078152015300377) on coffee spilling.
