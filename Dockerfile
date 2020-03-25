@@ -10,6 +10,7 @@ RUN pip install jupyterthemes
 RUN jt -t chesterish
 RUN pip install matplotlib-venn
 RUN pip install bctpy
+RUN pip install bokeh==1.3.4
 
 
 

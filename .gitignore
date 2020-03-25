@@ -26,7 +26,12 @@ lecture_11_02_25_2020/*.pdf
 lecture_11_02_25_2020/Lecture11_02_25_2020_code_and_data.zip
 
 lecture_15_03_24_2020/data/*
+!lecture_15_03_24_2020/data/.gitkeep
 lecture_15_03_24_2020/*.pdf
+
+lecture_16_03_26_2020/data/*
+!lecture_16_03_26_2020/data/.gitkeep
+lecture_16_03_26_2020/*.pdf
 
 
 .config/
