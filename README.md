@@ -51,3 +51,8 @@ This lecture focuses on the t-distribution. The main notebook for the class is t
 **Lecture 15, March 24th**
 
 The first two-sample t-test used in the slides of the lecture is inspired from [this paper](https://europepmc.org/article/PMC/3335970) that reports the pleasurability of scratching an itch. The second comes from the Broad Achilles [CRISPR data](https://depmap.org/portal/download/), specifically using the `sample_info.csv` and the `Achilles_gene_effect.csv` files. The notebook labeled `...group_coding_exercise` exemplifies how to choose and run t-tests with two samples. The analysis was inspired from [this review on hydrogels](https://www.nature.com/articles/s41578-019-0148-6), and the recordings presented in the notebook represent toy data only. Finally, the in-class exercise uses data generated from Bassett lab members and friends while performing an experiment to test the results of [this paper](https://www.sciencedirect.com/science/article/pii/S2078152015300377) on coffee spilling.
+
+
+**Lecture 16, March 26th**
+
+This lecture covers how to assess normality of data and how to proceed if data do not meet the assumptions of statistical tests. The main notebook contains a sample of the previous lecture's CRISPR knockout effects on melanoma and lung cancer from [DepMap](https://depmap.org/portal/download/). It also contains the degree sequence of an ACTN3 subnetwork pulled from the [SRING database](https://string-db.org/). Processing of the STRING data to the final degree sequnce can be found in the dev notebook. Other datasets used came from student surveys.
