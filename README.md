@@ -56,3 +56,8 @@ The first two-sample t-test used in the slides of the lecture is inspired from [
 **Lecture 16, March 26th**
 
 This lecture covers how to assess normality of data and how to proceed if data do not meet the assumptions of statistical tests. The main notebook contains a sample of the previous lecture's CRISPR knockout effects on melanoma and lung cancer from [DepMap](https://depmap.org/portal/download/). It also contains the degree sequence of an ACTN3 subnetwork pulled from the [SRING database](https://string-db.org/). Processing of the STRING data to the final degree sequnce can be found in the dev notebook. Other datasets used came from student surveys.
+
+
+**Lecture 20, April 9th**
+
+Today we begin a series of lectures on regression. Our first lecture in the series covers the basics of linear regression, including basic terms and calculations. We use only one dataset today, which we extracted from [this website](http://www.tylervigen.com/spurious-correlations) of spurious correlations. 
