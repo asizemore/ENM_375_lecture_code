@@ -60,4 +60,8 @@ This lecture covers how to assess normality of data and how to proceed if data d
 
 **Lecture 20, April 9th**
 
-Today we begin a series of lectures on regression. Our first lecture in the series covers the basics of linear regression, including basic terms and calculations. We use only one dataset today, which we extracted from [this website](http://www.tylervigen.com/spurious-correlations) of spurious correlations. 
+Today we begin a series of lectures on regression. Our first lecture in the series covers the basics of linear regression, including basic terms and calculations. We use only one dataset today, which we extracted from [this website](http://www.tylervigen.com/spurious-correlations) of spurious correlations.
+
+**Lecture 21, April 14**
+
+Part 2 of our regression lectures is heavily code-focused, generating examples of additional concepts and subtleties not covered in the previous lecture. We will use a sample of the RNA-protein data collected in [Schwanhäusser et al., 2011](https://www-nature-com.proxy.library.upenn.edu/articles/nature10098), as well as some colorimetric assay data I collected on aspartate transcarbamoylase. The height and jump data used within the python notebook was taken from students in the class. The notebook of extras is a reproduction of the code [here](https://github.com/ijmbarr/simpsons-paradox), discussed on [this](http://www.degeneratestate.org/posts/2017/Oct/22/generating-examples-of-simpsons-paradox/) blogpost.
