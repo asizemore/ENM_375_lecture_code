@@ -65,3 +65,8 @@ Today we begin a series of lectures on regression. Our first lecture in the seri
 **Lecture 21, April 14**
 
 Part 2 of our regression lectures is heavily code-focused, generating examples of additional concepts and subtleties not covered in the previous lecture. We will use a sample of the RNA-protein data collected in [Schwanhäusser et al., 2011](https://www-nature-com.proxy.library.upenn.edu/articles/nature10098), as well as some colorimetric assay data I collected on aspartate transcarbamoylase. The height and jump data used within the python notebook was taken from students in the class. The notebook of extras is a reproduction of the code [here](https://github.com/ijmbarr/simpsons-paradox), discussed on [this](http://www.degeneratestate.org/posts/2017/Oct/22/generating-examples-of-simpsons-paradox/) blogpost.
+
+
+**Lecture 22, April 16th**
+
+Finally we end our regression series with nonlinear regression. We step through fitting the ATCase data from lecture 21 to a Michaelis-Menten equation and the Hill equation. We show a sliding window approach to smoothing, and demo fitting data to a quadratic equation. We end with logistic regression using a debrafenib dose curve from [CTD2](https://depmap.org/portal/compound/dabrafenib?tab=dose-curves) and data collected from students.

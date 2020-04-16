@@ -40,6 +40,9 @@ lecture_20_04_09_2020/*.pdf
 lecture_21_04_14_2020/data/*
 !lecture_21_04_14_2020/data/.gitkeep
 
+lecture_22_04_16_2020/data/*
+!lecture_22_04_16_2020/data/.gitkeep
+
 *.pse
 *.pdf
 
